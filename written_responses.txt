@@ -1,0 +1,17 @@
+Question 1:
+You likely used some supervised learning algorithm to create a model that predicts success. how does this model make it's predictions? That is, if the CEO asked for some rules or logic that predict a successful contact, can you provide them? If not, why not?
+
+
+
+Question 2:
+How much better is your program than a simple strategy that simply contacts everyone?
+
+
+
+Question 3:
+Are there any attributes in the dataset that are irrelevant or unecessary for your decision?
+
+
+
+Question 4:
+If your program was seen as an "agent program", which of the agent types discussed in class would it be?
